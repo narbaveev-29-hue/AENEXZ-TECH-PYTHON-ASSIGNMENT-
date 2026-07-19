@@ -9,7 +9,7 @@ Submitted by: Narbavee
 Date: 19/07/2026
 ==========================================
 """
-
+# Basicquestions1
 # 1. Find the largest of three numbers
 
 a = int(input("Enter first number: "))
@@ -110,6 +110,7 @@ for i in range(1, 6):
 # 1234
 # 12345
 
+#Basicquestions2
 # 1. Function to find the area of a circle
 
 def area(radius):
